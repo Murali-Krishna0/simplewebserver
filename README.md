@@ -66,6 +66,9 @@ Testing the webserver.
 
 ## OUTPUT:
 ![image](https://github.com/Murali-Krishna0/simplewebserver/assets/149054535/059e5997-6232-4dc8-8644-63921a2b37c4)
+![image](https://github.com/Murali-Krishna0/simplewebserver/assets/149054535/16ce8133-01b5-4560-a70c-f9f415f5ee0b)
+![image](https://github.com/Murali-Krishna0/simplewebserver/assets/149054535/2dedb267-3c6b-49a2-940e-76ee59b26307)
+
 
 
 
